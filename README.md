@@ -10,8 +10,8 @@ Created to easily generate pub quiz questions.
 
 ## Setup
 - Clone repository 
-  -`git clone git@github.com:mattmarch/BadTranslator.git`
-  -`cd BadTranslator`
+  - `git clone git@github.com:mattmarch/BadTranslator.git`
+  - `cd BadTranslator`
 - Create virtualenv e.g. `virtualenv --python=/usr/bin/python3.7 venv`
 - Activate `source venv/bin/activate`
 - Install requirements `pip install -r requirements.txt`
