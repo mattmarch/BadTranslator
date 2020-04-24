@@ -6,13 +6,13 @@ Created to easily generate pub quiz questions.
 
 ## Requirements
 - Python 3.7
-- virtualenv (`pip install virtualenv`) *OPTIONAL*
+- virtualenv (`pip install virtualenv`) *[OPTIONAL]*
 
 ## Setup
 - Clone repository 
   - `git clone git@github.com:mattmarch/BadTranslator.git`
   - `cd BadTranslator`
-- *OPTIONAL* Create and activate virtualenv e.g. 
+- *[OPTIONAL]* Create and activate virtualenv e.g. 
   - `virtualenv --python=/usr/bin/python3.7 venv`
   - `source venv/bin/activate`
 - Install requirements `pip install -r requirements.txt`
