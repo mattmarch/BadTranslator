@@ -17,7 +17,7 @@ Created to easily generate pub quiz questions.
   - `source venv/bin/activate`
 - Install requirements `pip install -r requirements.txt`
 
-# Run
+## Run
 `python translator.py inputfile times`
 
 e.g. `python translator.py frozen.txt 5` to translate the file *frozen.txt* 5 times. The output will be printed to the console.
